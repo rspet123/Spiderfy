@@ -2,10 +2,6 @@ import networkx as nx
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 from tqdm import tqdm
-# Porter Robinson: 3dz0NnIZhtKKeXZxLOxCam
-# Seven Lions: 6fcTRFpz0yH79qSKfof7lp
-# Last Heros: 3HHfEn7yPOy3IiHS6CHG97
-# Caster: 4z7OnrBHTHdfpjNKl7NGox
 SPOTIPY_CLIENT_ID = 'xx'
 SPOTIPY_CLIENT_SECRET = 'xx'
 max_depth = 0
