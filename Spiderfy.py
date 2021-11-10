@@ -6,8 +6,8 @@ from tqdm import tqdm
 # Seven Lions: 6fcTRFpz0yH79qSKfof7lp
 # Last Heros: 3HHfEn7yPOy3IiHS6CHG97
 # Caster: 4z7OnrBHTHdfpjNKl7NGox
-SPOTIPY_CLIENT_ID = '9a243ad77a18419198c066da092d1004'
-SPOTIPY_CLIENT_SECRET = '0b1370eb5dfa46129266b7aebc5b66e7'
+SPOTIPY_CLIENT_ID = 'xx'
+SPOTIPY_CLIENT_SECRET = 'xx'
 max_depth = 0
 depth = 0
 spotify = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(SPOTIPY_CLIENT_ID,SPOTIPY_CLIENT_SECRET))
